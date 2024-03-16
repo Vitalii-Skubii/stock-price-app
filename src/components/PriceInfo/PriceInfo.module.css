@@ -1,0 +1,24 @@
+.wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-weight: 600;
+}
+
+.trendWrapper {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+}
+
+.materialIcons {
+  font-family: 'Material Icons';
+}
+
+.down {
+  color: var(--secondary-color);
+}
+
+.up {
+  color: var(--primary-color);
+}

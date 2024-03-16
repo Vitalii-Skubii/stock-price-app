@@ -1,0 +1,13 @@
+@media (min-width: 500px) {
+  .wrapper {
+    margin: 0 50px;
+  }
+}
+
+@media (min-width: 1160px) {
+  .wrapper {
+    margin: 0;
+    display: flex;
+    justify-content: space-between;
+  }
+}

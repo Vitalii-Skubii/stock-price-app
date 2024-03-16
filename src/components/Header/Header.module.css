@@ -1,0 +1,12 @@
+.wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+
+.materialIcons {
+  font-family: 'Material Icons';
+  font-size: 50px;
+  color: var(--primary-color);
+}
