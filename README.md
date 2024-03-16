@@ -11,8 +11,8 @@ A brief description of what the project does.
 ## Testing & building
 
 1. To check it with linter use `npm run lint`.
-1. To run tests use `npm run test`.
-3.to build the app use `npm run build`
+2. To run tests use `npm run test`.
+3. to build the app use `npm run build`.
 
 ## Usage
 
